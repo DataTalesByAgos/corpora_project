@@ -10,8 +10,6 @@ El flujo principal es:
 3. Detectar personas, asignar IDs persistentes y contar cruces de línea.
 4. Generar video anotado y CSV con registros.
 
----
-
 ## 2. Requisitos
 - Python >= 3.9
 - ultralytics
