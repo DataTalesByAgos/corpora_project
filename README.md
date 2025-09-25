@@ -21,7 +21,7 @@ El flujo principal es:
 Instalación:
 ```bash
 pip install -r requirements.txt
-# En collab:
+# En colab:
 # pip install ultralytics opencv-python-headless matplotlib
 # pip install -q yt-dlp
 ```
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```bash
 # Ejecutar el notebook o script:
 python script_tracking.py # local
-script_tracking.ipynb # collab
+script_tracking.ipynb # colab
 ```
 ### Resultados generados:
 - output_tracked.mp4 : Video con bounding boxes y IDs.
