@@ -54,7 +54,6 @@ script_tracking.ipynb # collab
   *Mitigación*: Se analizan frames cada 0.5 segundos y se guardan frames procesados opcionales en `frames/`. 
 
 ## 6. Demo
+![Demo GIF](./output_tracked.gif)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YvF3nS1_Yyt3dEWt5qHM9p1Yfv8x0dBb?usp=sharing)
-
-<video width="480" controls> <source src="output_tracked.mp4" type="video/mp4"> Tu navegador no soporta el elemento de video. </video>
 
